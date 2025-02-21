@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\LikeLion1\\",
+  "WorkspaceRootPath": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\LikeLion1\\LikeLion1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B7449E0-8EC8-41BF-B6C8-158E11C5A7BA}|LikeLion1\\LikeLion1.csproj|c:\\users\\ehdgn\\desktop\\likeliongithub\\projectlion\\likelion1\\likelion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7449E0-8EC8-41BF-B6C8-158E11C5A7BA}|LikeLion1\\LikeLion1.csproj|solutionrelative:likelion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\LikeLion1\\LikeLion1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,12 +21,12 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\LikeLion1\\LikeLion1\\Program.cs",
-              "RelativeDocumentMoniker": "LikeLion1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\LikeLion1\\LikeLion1\\Program.cs",
-              "RelativeToolTip": "LikeLion1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:53:49.107Z",
+              "WhenOpened": "2025-02-21T02:14:43.33Z",
               "EditorCaption": ""
             }
           ]
