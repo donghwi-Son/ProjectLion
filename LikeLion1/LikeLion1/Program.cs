@@ -10,8 +10,9 @@ namespace LikeLion1
     {
         static void Main(string[] args)
         {
-            //출력
-            Console.WriteLine("깃허브 연결하기");
+            int age;
+            age = 25;
+            Console.WriteLine(age);
         }
     }
 }
