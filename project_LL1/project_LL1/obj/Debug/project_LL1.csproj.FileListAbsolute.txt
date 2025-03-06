@@ -1,0 +1,7 @@
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\bin\Debug\project_LL1.exe.config
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\bin\Debug\project_LL1.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\bin\Debug\project_LL1.pdb
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\obj\Debug\project_LL1.csproj.AssemblyReference.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\obj\Debug\project_LL1.csproj.CoreCompileInputs.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\obj\Debug\project_LL1.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\project_LL1\project_LL1\obj\Debug\project_LL1.pdb

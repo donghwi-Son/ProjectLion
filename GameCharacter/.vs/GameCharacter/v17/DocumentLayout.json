@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|c:\\users\\ehdgn\\desktop\\likeliongithub\\projectlion\\gamecharacter\\gamecharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|solutionrelative:gamecharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|c:\\users\\ehdgn\\desktop\\likeliongithub\\projectlion\\gamecharacter\\gamecharacter\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|solutionrelative:gamecharacter\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|c:\\users\\ehdgn\\desktop\\likeliongithub\\projectlion\\gamecharacter\\gamecharacter\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|solutionrelative:gamecharacter\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|c:\\users\\ehdgn\\desktop\\likeliongithub\\projectlion\\gamecharacter\\gamecharacter\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27B75F2-C524-4DA8-9393-690AB7EE810B}|GameCharacter\\GameCharacter.csproj|solutionrelative:gamecharacter\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\Warrior.cs",
+              "RelativeDocumentMoniker": "GameCharacter\\Warrior.cs",
+              "ToolTip": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\Warrior.cs",
+              "RelativeToolTip": "GameCharacter\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:41:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\Mage.cs",
+              "RelativeDocumentMoniker": "GameCharacter\\Mage.cs",
+              "ToolTip": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\Mage.cs",
+              "RelativeToolTip": "GameCharacter\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:35:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "GameCharacter\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\GameCharacter.cs",
+              "RelativeToolTip": "GameCharacter\\GameCharacter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:34:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\Program.cs",
+              "RelativeDocumentMoniker": "GameCharacter\\Program.cs",
+              "ToolTip": "C:\\Users\\ehdgn\\Desktop\\LikeLionGitHub\\ProjectLion\\GameCharacter\\GameCharacter\\Program.cs",
+              "RelativeToolTip": "GameCharacter\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:26:24.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\obj\Debug\bjpractice.csproj.AssemblyReference.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\obj\Debug\bjpractice.csproj.CoreCompileInputs.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\bin\Debug\bjpractice.exe.config
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\bin\Debug\bjpractice.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\bin\Debug\bjpractice.pdb
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\obj\Debug\bjpractice.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\bjpractice\bjpractice\obj\Debug\bjpractice.pdb

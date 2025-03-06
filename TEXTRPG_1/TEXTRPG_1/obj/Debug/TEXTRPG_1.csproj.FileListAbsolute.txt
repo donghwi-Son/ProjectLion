@@ -1,0 +1,7 @@
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\bin\Debug\TEXTRPG_1.exe.config
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\bin\Debug\TEXTRPG_1.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\bin\Debug\TEXTRPG_1.pdb
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\obj\Debug\TEXTRPG_1.csproj.AssemblyReference.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\obj\Debug\TEXTRPG_1.csproj.CoreCompileInputs.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\obj\Debug\TEXTRPG_1.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\TEXTRPG_1\TEXTRPG_1\obj\Debug\TEXTRPG_1.pdb

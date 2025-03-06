@@ -1,0 +1,7 @@
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\bin\Debug\csgame.exe.config
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\bin\Debug\csgame.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\bin\Debug\csgame.pdb
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\obj\Debug\csgame.csproj.AssemblyReference.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\obj\Debug\csgame.csproj.CoreCompileInputs.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\obj\Debug\csgame.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\csgame\csgame\obj\Debug\csgame.pdb

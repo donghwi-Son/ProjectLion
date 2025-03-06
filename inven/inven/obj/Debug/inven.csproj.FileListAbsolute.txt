@@ -1,0 +1,7 @@
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\bin\Debug\inven.exe.config
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\bin\Debug\inven.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\bin\Debug\inven.pdb
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\obj\Debug\inven.csproj.AssemblyReference.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\obj\Debug\inven.csproj.CoreCompileInputs.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\obj\Debug\inven.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\inven\inven\obj\Debug\inven.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inven", "inven\inven.csproj", "{BA917707-D466-4957-BBD0-BFCAD822B629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA917707-D466-4957-BBD0-BFCAD822B629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA917707-D466-4957-BBD0-BFCAD822B629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA917707-D466-4957-BBD0-BFCAD822B629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA917707-D466-4957-BBD0-BFCAD822B629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF92BD44-A931-4EFF-B0BE-3D5277839589}
+	EndGlobalSection
+EndGlobal

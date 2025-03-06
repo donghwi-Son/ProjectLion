@@ -1,0 +1,7 @@
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\obj\Debug\GameCharacter.csproj.AssemblyReference.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\obj\Debug\GameCharacter.csproj.CoreCompileInputs.cache
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\bin\Debug\GameCharacter.exe.config
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\bin\Debug\GameCharacter.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\bin\Debug\GameCharacter.pdb
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\obj\Debug\GameCharacter.exe
+C:\Users\ehdgn\Desktop\LikeLionGitHub\ProjectLion\GameCharacter\GameCharacter\obj\Debug\GameCharacter.pdb
